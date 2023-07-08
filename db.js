@@ -1,0 +1,1 @@
+[{"id":1,"marca":"Gibson put","modelo":"xxxx","precio":5000,"cantidad":3},{"id":3,"marca":"xxxx","precio":5000,"cantidad":3}]
